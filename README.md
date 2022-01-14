@@ -1,4 +1,4 @@
-# Apach + MySQL + phpMyAdmin on Docker
+# Apache + MySQL + phpMyAdmin on Docker
 
 clone し、docker compose up をしたら、[localhost:8080](localhost:8080) にアクセスします。
 phpMyAdmin のログイン画面が表示されるので、ユーザー:`root` , パスワード:`root` を入力する。
